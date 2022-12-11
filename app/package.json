@@ -21,7 +21,7 @@
     "bui-server": "git+https://github.com/kjantzer/bui-server.git",
     "body-parser": "^1.18.2",
     "connect-redis": "^4.0.3",
-    "express": "^4.9.7",
+    "express": "^4.17.3",
     "express-fileupload": "^1.1.6-alpha.5",
     "express-session": "^1.17.0",
     "lit-element": "^2.2.1",
